@@ -1,0 +1,9 @@
+{
+    "name": "DeviceInfo",
+    "version": "1.0.0",
+    "private": true,
+  "dependencies": {
+    "bootstrap": "3.3.7",
+    "jquery": "3.2.1"
+  }
+}
